@@ -15,5 +15,10 @@ namespace Zoo.Lib
             Name = name;
             Sex = sex;
         }
+
+        public Lion(string name)
+        {
+            Name = name;
+        }
     }
 }
